@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Print_excel:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Print_excel_jar</output-path>
+    <root id="archive" name="Print_excel.jar">
+      <element id="module-output" name="Print_excel" />
+      <element id="extracted-dir" path="D:/浏览器下载/poi-bin-4.0.1-20181203/poi-4.0.1/poi-4.0.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
